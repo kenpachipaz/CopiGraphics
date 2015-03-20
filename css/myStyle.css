@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+}
+iframe{
+	width: 100%;
+	height: 575px;
+	border: 1px solid #FFF;
+	background: #D7CCC8;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+input[type="submit"]{
+	margin-top: 10px;
+	background: #FFE0B2;
+	height: 30px;
+	width: 100px;
+	box-shadow: -1px 1px 2px 2px #78909C;
+	border-radius: 7px;
+}
+select{
+	margin-left: 5px;
+	background: #FFE0B2;
+	height: 30px;
+	width: 150px;
+	box-shadow: -1px 1px 2px 2px #78909C;
+	border-radius: 7px;
+}
+input[type="text"], input[type="number"]{
+	margin-top: 10px;
+	margin-left: 15px;
+	background: #FFE0B2;
+	height: 30px;
+	width: 200px;
+	box-shadow: -1px 1px 2px 2px #78909C;
+	border-radius: 7px;
+}
+#update{
+	margin-top: 20px;
+}
